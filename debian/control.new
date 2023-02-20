@@ -1,0 +1,16 @@
+Source: sshpass
+Section: unknown
+Priority: optional
+Maintainer: unknown <shachar@debian.org>
+Build-Depends: debhelper-compat (= 13), autotools-dev
+Standards-Version: 4.5.1
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/sshpass
+#Vcs-Git: https://salsa.debian.org/debian/sshpass.git
+Rules-Requires-Root: no
+
+Package: sshpass
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
