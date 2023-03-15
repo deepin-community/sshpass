@@ -1,3 +1,9 @@
+sshpass (1.10-0deepin) UNRELEASED; urgency=medium
+
+  * New upstream version
+
+ -- Tianyu Chen <chentianyu1@uniontech.com>  Wed, 15 Mar 2023 08:50:42 +0000
+
 sshpass (1.09-1) unstable; urgency=medium
 
   * New upstream version
